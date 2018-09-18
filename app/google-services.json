@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "184838565559",
+    "firebase_url": "https://sacagawea-30ebb.firebaseio.com",
+    "project_id": "sacagawea-30ebb",
+    "storage_bucket": "sacagawea-30ebb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184838565559:android:faaf559b23c4b0bb",
+        "android_client_info": {
+          "package_name": "ksu.sacagawea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184838565559-bp1thooib2ebns8jtr12cjm5cecvecv7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ksu.sacagawea",
+            "certificate_hash": "19f3f7a33375a046eccce6f611d49fd636eb8af8"
+          }
+        },
+        {
+          "client_id": "184838565559-3rfaujsdoto29qve7hcvumeqj1ue6oan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_kLAG1b4nMGbBQQQitOTJZKrDcPzdt4k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184838565559-3rfaujsdoto29qve7hcvumeqj1ue6oan.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
